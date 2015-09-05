@@ -1,0 +1,16 @@
+<div id="message-box" class="row">
+ <div class="col-xs-12">
+   <div id="message-all"> 
+    
+  </div> 
+ </div> 
+</div>
+<div id="message-input" class="row">
+  <div class="col-xs-12">
+    <input id="user-name" placeholder="Enter Name">
+  </div>
+
+  <div class="col-xs-12">
+    <input id="message-message" placeholder="Enter Message">
+  </div>
+</div>
